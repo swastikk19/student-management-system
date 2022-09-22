@@ -6,7 +6,7 @@ Nowadays, It is not only about managing the data. In order to maintain the priva
 
 Few days back, I visited a college.
 
-There, the admission process were going on. I noticed that they were using old fashioned registers to make the entry of the new student, which takes alot of time, wastes alot of paper, ink & not at all a good or healthy solution for enviorment.
+There, the admission process were going on. I noticed that they were using old fashioned registers to make the entry of the new student, which takes alot of time, wastes alot of paper, ink & not at all a good or healthy solution for enviroment.
 
 I got an idea to develop something using my skills, knowledge and coding concepts.
 
